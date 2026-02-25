@@ -35,13 +35,5 @@ Thumbs.db
 /MyLearnClient/UserSettings
 /MyLearnClient/MyLearnClient.sln
 /MyLearnClient/ProjectSettings
-/MyLearnClient/.vsconfig
-/MyLearnClient/MyLearnClient.sln
 /MyLearnClient/Temp
-/MyLearnClient/UniTask.Addressables.csproj
-/MyLearnClient/UniTask.csproj
-/MyLearnClient/UniTask.DOTween.csproj
-/MyLearnClient/UniTask.Editor.csproj
-/MyLearnClient/UniTask.Linq.csproj
-/MyLearnClient/UniTask.TextMeshPro.csproj
-/MyLearnClient/Assembly-CSharp.csproj
+ 
