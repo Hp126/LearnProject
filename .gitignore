@@ -31,6 +31,7 @@ pnpm-debug.log*
 
 # 系统文件
 Thumbs.db
+/MyLearnClient/.vs
 /MyLearnClient/Library
 /MyLearnClient/UserSettings
 /MyLearnClient/MyLearnClient.sln
